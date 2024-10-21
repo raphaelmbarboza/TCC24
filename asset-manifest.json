@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TCC24/static/css/main.8c563bb7.css",
+    "main.js": "/TCC24/static/js/main.aa89d2de.js",
+    "index.html": "/TCC24/index.html",
+    "main.8c563bb7.css.map": "/TCC24/static/css/main.8c563bb7.css.map",
+    "main.aa89d2de.js.map": "/TCC24/static/js/main.aa89d2de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c563bb7.css",
+    "static/js/main.aa89d2de.js"
+  ]
+}
